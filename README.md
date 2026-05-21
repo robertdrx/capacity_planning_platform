@@ -82,3 +82,6 @@ POST http://localhost:8080/api/teams/1/persons
 
 To get all teams from all the epics of an initative: 
 GET http://localhost:8080/api/initiatives/1/teams
+
+Database schema: 
+<img src="images/tool - tool - public.png" >
