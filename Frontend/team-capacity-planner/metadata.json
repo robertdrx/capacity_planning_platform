@@ -1,0 +1,6 @@
+{
+  "name": "Team Capacity Planner",
+  "description": "A dashboard for tracking team capacity, allocation, and team settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
